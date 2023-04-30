@@ -1,0 +1,5 @@
+1. Define the structure of the data required by the feature
+2. Provide initial state
+3. Add reducer function to modify state based on action
+4. Connect initial state and reducer using useReducer hook
+5. Create Context to share the state and dispatch to all the child components
